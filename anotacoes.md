@@ -1,9 +1,14 @@
-# Comandos linux 
+# Anotações de Comandos - Git, GitHub e Linux
+Bem-vindo ao meu repositório de anotações! Este diretório foi criado com o objetivo de documentar comandos importantes de Git, GitHub e Linux que estou aprendendo ao longo dos meus estudos. Aqui, mantenho um registro dos comandos que considero úteis para consulta rápida no futuro.
+## Motivacao
+Durante meus estudos, percebi a importância de ter um local centralizado para armazenar comandos e conceitos que uso frequentemente ou que podem ser úteis em projetos futuros. Este repositório serve como um guia pessoal, mas também pode ajudar outros que estão aprendendo.
+
+## Comandos linux 
 ```mkdir nome_da_pasta``` comando para criar uma pasta no linux pelo terminal
 
 ```cd nome_da_pasta``` comando para acessar a pasta pelo terminal 
 
-## Atualizando os pacotes do sistema linux
+### Atualizando os pacotes do sistema linux
 ```sudo apt update``` 
 
 ```apt list --upgradable```
@@ -14,7 +19,7 @@
 
 ```sudo apt autoremove``` 
 
-# Comandos GIT/GITHUB
+## Comandos GIT/GITHUB
 
 ```sudo apt install git``` instalando o git via terminal do linux
 
